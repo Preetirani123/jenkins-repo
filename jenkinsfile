@@ -4,6 +4,7 @@ pipeline {
     stage('Build'){
       echo "This should run on the BUILD stage"
 	  echo "This should run on the BUILD stage"
+	   echo "This should on the BUILD stage"
     }
   }
 }
